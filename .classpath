@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Calculadoras_Basicas/src/main/java"/>
+	<classpathentry kind="src" path="ConjuntosConsola/src/main/java"/>
+	<classpathentry kind="src" path="Convertidores_basicos/src/main/java"/>
+	<classpathentry kind="src" path="Divisores_de_un_numero/src"/>
+	<classpathentry kind="src" path="EDO_Temperatura/src/main/java"/>
+	<classpathentry kind="src" path="Ejercicios_Fundamentos/src/main/java"/>
+	<classpathentry kind="src" path="PiedraPapelTijeraConsola/src/main/java"/>
+	<classpathentry kind="src" path="ProgramacionGenerica/src/main/java"/>
+	<classpathentry kind="src" path="Sistemas_Numericos/src/main/java"/>
+	<classpathentry kind="src" path="Streams/src/main/java"/>
+	<classpathentry kind="src" path="Threads/src/main/java"/>
+	<classpathentry kind="lib" path="Ejercicios_Fundamentos/target/Ejercicios_Fundamentos-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="Divisores_de_un_numero/build/classes"/>
+</classpath>
