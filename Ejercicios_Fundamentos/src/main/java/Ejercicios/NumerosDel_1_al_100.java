@@ -1,7 +1,9 @@
 package Ejercicios;
 
-/*
-    Mostrar los números del 1 al 100 (ambos incluidos) usando el bucle while
+/**
+ * Mostrar los números del 1 al 100 (ambos incluidos) usando el bucle while.
+ * @author Juan Carlos Estevez Vargas.
+ *
  */
 public class NumerosDel_1_al_100 {
 
