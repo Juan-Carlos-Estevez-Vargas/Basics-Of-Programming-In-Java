@@ -1,4 +1,4 @@
-# Basics Of Programming In Java
+# Fundamentos de programación en Java Java
 Ejercicios básicos de programación en Java, realizados en la materia "Programación 1" segundo semestre de la Fundación Universitaria de San Gil (UNISANGIL).
 Dentro del repositorio encontrarás algunos proyectos que pueden ser útiles para iniciantes en el mundo de la programación.
 
@@ -8,9 +8,5 @@ Dentro del repositorio encontrarás algunos proyectos que pueden ser útiles par
 * [Manipulación de archivos (Streams)](https://github.com/Juan-Carlos-Estevez-Vargas/Basics-Of-Programming-In-Java/tree/master/Streams)
 * [Ejemplos sencillos sobre hilos](https://github.com/Juan-Carlos-Estevez-Vargas/Basics-Of-Programming-In-Java/tree/master/Threads)
 
-# Mis redes sociales
-
- <a href="https://www.youtube.com/channel/UCEUrVWPMTrXIWzn5CwnjYhQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceurvwpmtrxiwzn5cwnjyhq" height="30" width="40" /></a> 
-<a href="https://instagram.com/juankestevez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juankestevez" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/juan-carlos-estevez-vargas-4abb8b14a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-carlos-estevez-vargas-4abb8b14a/" height="30" width="40" /></a> 
- <a href="https://codepen.io/juan-carlos-estevez-vargas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="juan-carlos-estevez-vargas" height="30" width="40" /></a>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/juancarlos.estevezvargas.98) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juankestevez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-carlos-estevez-vargas) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JuanCarlosEstevezVargas) 
